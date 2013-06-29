@@ -17,5 +17,6 @@ public class Main {
 	//Local: More lines
 	//Local2: More lines
 	//Server2: More Lines Local3: conflict
-	//Server 10: This will be a conflict
+	//Server 10: This is a conflict Local 10: This is a local conflicting line
+
 }
