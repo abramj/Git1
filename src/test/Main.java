@@ -14,5 +14,5 @@ public class Main {
 	//Server: Last line
 	//Local2: Last Line
 	
-	//Server: More lines
+	//Local: More lines
 }
