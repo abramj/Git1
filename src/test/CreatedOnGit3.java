@@ -1,4 +1,6 @@
-  public class CreatedOnGit3.java{
+package test;
+
+  public class CreatedOnGit3 {
   
   //Server: Line 1
 	//Local3: added again
