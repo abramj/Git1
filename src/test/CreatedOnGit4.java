@@ -1,5 +1,5 @@
 public class CreatedOnGit4{
 
-  //created in github
+  //this is a new class from github
 
 }
