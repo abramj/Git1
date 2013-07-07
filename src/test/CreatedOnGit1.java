@@ -9,8 +9,5 @@ public class CreatedOnGit1{
   double pi = 3.14;
   boolean ok = false;
   String s1 = "S1";
-  String server1 = "Server 1";
-  String local1 = "Local 1";
-  String server2 = "Server 2";
   
 }
