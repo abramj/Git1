@@ -7,7 +7,7 @@ public class Main {
 	//Local: second line
 	//comment
 	//Local: this is the conflicting text
-	//Another conflicting text fromserver
+	//Another conflicting text from server
 	//Local: Another conflicting text from local
 	//Local: pre-last line
 	//Local2: added text
