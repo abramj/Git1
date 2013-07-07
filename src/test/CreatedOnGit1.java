@@ -15,6 +15,7 @@ public class CreatedOnGit1{
   String local2 = "Local 2";
   String server3 = "server 3";
   String local3 = "Local 3";
+  String server4 = "Server 4";
 
   
 }
