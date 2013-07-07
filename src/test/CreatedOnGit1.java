@@ -8,5 +8,6 @@ public class CreatedOnGit1{
   int j = 5;
   double pi = 3.14;
   boolean ok = false;
+  String s1 = "S1";
   
 }
