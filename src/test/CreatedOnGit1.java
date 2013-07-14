@@ -21,6 +21,7 @@ public class CreatedOnGit1{
   String local5 = "Local 5";
   String s6 = "This is a conflicting line on server";
   String l6 = "Conflicting line in WS";
+  String s7141 = "String Server 071413-1";
 
   
 }
