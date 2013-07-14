@@ -20,5 +20,6 @@ public class Main {
 	//Server 10: This is a conflict Local 10: This is a local conflicting line
 	String s7141 = "String Server 071413-1";
 	String local7141 = "String Local 071413-1";
+	String s714_2 = "String Server 071413-2";
 
 }
