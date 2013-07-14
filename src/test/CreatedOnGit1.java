@@ -23,6 +23,7 @@ public class CreatedOnGit1{
   String l6 = "Conflicting line in WS";
   String s7141 = "String Server 071413-1";
   String s7142 = "String Server 071413-2";
+  String s7143 = "String Server 071413-3";
 
   
 }
