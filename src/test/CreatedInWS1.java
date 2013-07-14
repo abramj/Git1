@@ -9,5 +9,5 @@ public class CreatedInWS1 {
 	  String local3 = "Local 3";
 	  String local4 = "Local 4";
 	  String local5 = "Local 5";
-	  
+	  String L7141 = "String Local 071413-1";	  
 }
