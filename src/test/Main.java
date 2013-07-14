@@ -24,5 +24,6 @@ public class Main {
 	String s714_4 = "String Server 071413-4";
 	String s714_5 = "String Server 071413-5";
 	String local7145 = "String Local 071413-5";
+	String s714_7 = "String Server 071413-7";
 
 }
