@@ -12,4 +12,5 @@ public class CreatedInWS1 {
 	  String L7141 = "String Local 071413-1";	  
 	  String L7142 = "String Local 071413-2";
 	  String L7145 = "String Local 071413-5";
+	  String L7147 = "String Local 071413-7";
 }
