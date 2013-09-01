@@ -9,6 +9,7 @@ public class CreatedInWS1 {
 	  String local3 = "Local 3";
 	  String local4 = "Local 4";
 	  String local5 = "Local 5";
+	  String L0901_4 = "String Local 090113-4";
 	  String L7141 = "String Local 071413-1";	  
 	  String L7142 = "String Local 071413-2";
 	  String L7145 = "String Local 071413-5";
@@ -21,5 +22,7 @@ public class CreatedInWS1 {
 	  String S0901_3 = "Added on server 0901-3";
 	  String L0901_3 = "String Local 090113-3";
 	  String S0901_4 = "Added on server 0901-4";
+	  String L0901_4_2 = "String Local 090113-4_2";
+
 
 }
