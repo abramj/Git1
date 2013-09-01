@@ -17,8 +17,6 @@ public class CreatedInWS2 {
 
 	}
 
-	
-
 	private String concatStrs() {
 		String ts = "abcd";
 		String ts2 = ts;
