@@ -20,5 +20,6 @@ public class CreatedInWS1 {
 	  String L0901_2 = "String Local 090113-2";
 	  String S0901_3 = "Added on server 0901-3";
 	  String L0901_3 = "String Local 090113-3";
+	  String S0901_4 = "Added on server 0901-4";
 
 }
