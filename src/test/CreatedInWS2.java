@@ -18,16 +18,9 @@ public class CreatedInWS2 {
 	}
 
 	
-	private String getNewString1() {
-		String ts3 = concatStrs();
-		
-		return ts3;
-
-	}
-	
 
 	private String concatStrs() {
-		String ts = "abc";
+		String ts = "abcd";
 		String ts2 = ts;
 		String ts3 = ts + ts2;
 		return ts3;

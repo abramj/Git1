@@ -11,5 +11,6 @@ public class CreatedInWS11 {
 	String local5 = "Local 5";
 	String local0901_1 = "Local 0901_1";
 	String local0901_2 = "Local 0901_2";
+	String L0901_7 = "String Local 090113-7"; //do not commit
 
 }
